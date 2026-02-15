@@ -57,8 +57,6 @@ His research interests include:
 
 ### 2025
 
-- `Shen, Guobin`, Zhao, Dongcheng, Tong, Haibo, Li, Jindong, Zhao, Feifei, and Zeng, Yi. "Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense." *arXiv preprint arXiv:2510.01088*, 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2510.01088)
-
 - `Shen, Guobin`, Zhao, Dongcheng, Dong, Yiting, Li, Yang, Zhao, Feifei, and Zeng, Yi. "Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks." *Advances in Neural Information Processing Systems* (NeurIPS), 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2308.12063)
   
 - Shen, Sicheng, Zhao, Dongcheng, Feng, Linghao, Yue, Zeyang, Li, Jindong, Li, Tenglong, `Shen, Guobin`, and Zeng, Yi. "STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking." *Advances in Neural Information Processing Systems (NeurIPS) Dataset and Benchmark Track*, 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2505.11151)
