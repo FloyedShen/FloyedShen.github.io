@@ -31,13 +31,15 @@ You can find his CV here: [📋 English](pdf/Guobin_Shen_CV.pdf) \| [📋 中文
 <!-- </a> -->
 
 His research interests include:
+- **Reinforcement Learning for Large Language Models**
 - **Scalable Alignment for Large Models**
 - **Interpretability & Trustworthy AI**
 - **Cognitive Science and Neuroscience-Inspired AI**
 
 # 📰 News
 
-1. Our paper on [**Safety Instincts**](https://arxiv.org/abs/2510.01088), which enables LLMs to develop internal safety mechanisms for safety alignment, has been accepted by **ICLR 2026**.
+1. Our paper [**VESPO**](https://huggingface.co/papers/2602.10693), a principled variational framework for stable off-policy RL training of LLMs, ranked **#3** on [HuggingFace Weekly Papers (2026-W09)](https://huggingface.co/papers/week/2026-W09). 💻[[Code]](https://github.com/FloyedShen/VESPO)
+2. Our paper on [**Safety Instincts**](https://arxiv.org/abs/2510.01088), which enables LLMs to develop internal safety mechanisms for safety alignment, has been accepted by **ICLR 2026**.
 2. Our two papers have been accepted by **NeurIPS 2025**: [**Learning the Plasticity**](https://arxiv.org/abs/2308.12063) on plasticity-driven learning framework in spiking neural networks (main conference), and [**STEP**](https://arxiv.org/abs/2505.11151) evaluation platform (Dataset and Benchmark Track).
 3. Our work **SpikePack**, which unifies direct training and conversion of spiking neural networks from an information flow perspective and explores the relationship with ANNs, has been accepted by **ICCV 2025**. 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484v2)
 4. We released **PandaGuard**, a systematic evaluation framework for LLM safety against jailbreaking attacks. 🏠[[Project]](https://panda-guard.github.io) 🔗[[Arxiv]](https://arxiv.org/abs/2505.13862) 💻[[Code]]((https://github.com/Beijing-AISI/panda-guard)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/panda-bench)
@@ -52,6 +54,8 @@ His research interests include:
 
 <!-- ### English  -->
 ### 2026
+
+- `Shen, Guobin`, Zhao, Chenxiao, Cheng, Xiang, Huang, Lei, and Yu, Xing. "VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training." *arXiv preprint arXiv:2602.10693*, 2026. 🤗[[Paper]](https://huggingface.co/papers/2602.10693) 💻[[Code]](https://github.com/FloyedShen/VESPO)
 
 - `Shen, Guobin`, Zhao, Dongcheng, Tong, Haibo, Li, Jindong, Zhao, Feifei, and Zeng, Yi. "Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense." *Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)*, 2026. 🔗[[Arxiv]](https://arxiv.org/abs/2510.01088)
 
@@ -182,8 +186,5 @@ Served as a reviewer for conferences including **NeurIPS**, **ICML**, **ICLR**, 
 - *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit. -->
 
 
-<!-- # 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
-   -->
+# 🏭 Internships
+- *2025.10 - Present*, ***RedStar Intern***, [Xiaohongshu](https://www.xiaohongshu.com/) Hi Lab, Beijing, China.
