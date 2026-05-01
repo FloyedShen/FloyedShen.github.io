@@ -38,7 +38,9 @@ His research interests include:
 
 # 📰 News
 
-1. Our paper [**VESPO**](https://huggingface.co/papers/2602.10693), a principled variational framework for stable off-policy RL training of LLMs, ranked **#3** on [HuggingFace Weekly Papers (2026-W09)](https://huggingface.co/papers/week/2026-W09). 💻[[Code]](https://github.com/FloyedShen/VESPO)
+1. Our paper [**BrainAlign**](https://arxiv.org/abs/2507.01966) has been accepted by **ICML 2026**.
+2. Our [**VESPO**](https://huggingface.co/papers/2602.10693) has been integrated into [**HuggingFace TRL**](https://github.com/huggingface/trl/issues/5196). 💻[[Code]](https://github.com/FloyedShen/VESPO)
+3. Our paper [**VESPO**](https://huggingface.co/papers/2602.10693), a principled variational framework for stable off-policy RL training of LLMs, ranked **#3** on [HuggingFace Weekly Papers (2026-W09)](https://huggingface.co/papers/week/2026-W09). 💻[[Code]](https://github.com/FloyedShen/VESPO)
 2. Our paper on [**Safety Instincts**](https://arxiv.org/abs/2510.01088), which enables LLMs to develop internal safety mechanisms for safety alignment, has been accepted by **ICLR 2026**.
 2. Our two papers have been accepted by **NeurIPS 2025**: [**Learning the Plasticity**](https://arxiv.org/abs/2308.12063) on plasticity-driven learning framework in spiking neural networks (main conference), and [**STEP**](https://arxiv.org/abs/2505.11151) evaluation platform (Dataset and Benchmark Track).
 3. Our work **SpikePack**, which unifies direct training and conversion of spiking neural networks from an information flow perspective and explores the relationship with ANNs, has been accepted by **ICCV 2025**. 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484v2)
