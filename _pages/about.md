@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guobin Shen is a Research Engineer at [Seedance](https://seed.bytedance.com/en/seedance), ByteDance Inc., where he works on omni-modal models and video generation. He received his Ph.D. from the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/).
+Guobin Shen is a Researcher at [Seedance](https://seed.bytedance.com/en/seedance), ByteDance Inc., where he works on omni-modal models and video generation. He received his Ph.D. from the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/).
 
 His work spans omni-modal generative models and the reinforcement learning and alignment methods that make large models scalable, trustworthy, and safe. Alongside this, he continues to draw on neuroscience and cognitive science, with research on alignment, uncertainty quantification, and robustness against failure modes such as jailbreak attacks and hallucinations, aiming to build AI systems that are not only powerful but also interpretable and reliable.
 
@@ -38,7 +38,7 @@ His research interests include:
 
 # 📰 News
 
-1. I have joined [**Seedance**](https://seed.bytedance.com/en/seedance) at **ByteDance Inc.** as a Research Engineer, working on omni-modal models and video generation.
+1. I have joined [**Seedance**](https://seed.bytedance.com/en/seedance) at **ByteDance Inc.** as a Researcher, working on omni-modal models and video generation.
 1. Our paper [**BrainAlign**](https://arxiv.org/abs/2507.01966) has been accepted by **ICML 2026**.
 1. Our [**VESPO**](https://huggingface.co/papers/2602.10693) has been integrated into [**HuggingFace TRL**](https://github.com/huggingface/trl/issues/5196). 💻[[Code]](https://github.com/FloyedShen/VESPO)
 1. Our paper [**VESPO**](https://huggingface.co/papers/2602.10693), a principled variational framework for stable off-policy RL training of LLMs, ranked **#3** on [HuggingFace Weekly Papers (2026-W09)](https://huggingface.co/papers/week/2026-W09). 💻[[Code]](https://github.com/FloyedShen/VESPO)
@@ -168,7 +168,7 @@ Served as a reviewer for conferences including **NeurIPS**, **ICML**, **ICLR**, 
 **PandaGuard** - A systematic evaluation framework for LLM safety against jailbreaking attacks. `Lead Developer`  💻[[GitHub]](https://github.com/Beijing-AISI/panda-guard) ![GitHub stars](https://img.shields.io/github/stars/Beijing-AISI/panda-guard?style=social)
 
 # 🏭 Experience
-- *2026.07 - Present*, ***Research Engineer***, [Seedance](https://seed.bytedance.com/en/seedance), ByteDance Inc., Beijing, China.
+- *2026.07 - Present*, ***Researcher***, [Seedance](https://seed.bytedance.com/en/seedance), ByteDance Inc., Beijing, China.
 - *2025.10 - 2026.06*, ***RedStar Intern***, [Xiaohongshu](https://www.xiaohongshu.com/) Hi Lab, Beijing, China.
 
 # 🎓 Educations 

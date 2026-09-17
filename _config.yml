@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guobin Shen"
   avatar           : "images/web_photo.png"
-  bio              : "Research Engineer, Seedance @ ByteDance"
+  bio              : "Researcher, Seedance @ ByteDance"
   location         : "Beijing, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
