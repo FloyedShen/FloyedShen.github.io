@@ -38,6 +38,7 @@ His research interests include:
 
 # 📰 News
 
+1. Our two papers have been accepted by **NeurIPS 2026**: [**VESPO**](https://arxiv.org/abs/2602.10693), a variational sequence-level soft policy optimization for off-policy LLM training, and [**AntiSD**](https://arxiv.org/abs/2605.11609), anti-self-distillation for reasoning RL via pointwise mutual information. 💻[[VESPO Code]](https://github.com/FloyedShen/VESPO) 💻[[AntiSD Code]](https://github.com/FloyedShen/AntiSD)
 1. I have joined [**Seedance**](https://seed.bytedance.com/en/seedance) at **ByteDance Inc.** as a Researcher, working on omni-modal models and video generation.
 1. Our paper [**BrainAlign**](https://arxiv.org/abs/2507.01966) has been accepted by **ICML 2026**.
 1. Our [**VESPO**](https://huggingface.co/papers/2602.10693) has been integrated into [**HuggingFace TRL**](https://github.com/huggingface/trl/issues/5196). 💻[[Code]](https://github.com/FloyedShen/VESPO)
@@ -60,7 +61,9 @@ His research interests include:
 
 - `Shen, Guobin`, Zhao, Dongcheng, Dong, Yiting, Zhang, Qian, and Zeng, Yi. "Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories." *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*, 2026. 🔗[[Arxiv]](https://arxiv.org/abs/2507.01966)
 
-- `Shen, Guobin`, Zhao, Chenxiao, Cheng, Xiang, Huang, Lei, and Yu, Xing. "VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training." *arXiv preprint arXiv:2602.10693*, 2026. 🤗[[Paper]](https://huggingface.co/papers/2602.10693) 💻[[Code]](https://github.com/FloyedShen/VESPO)
+- `Shen, Guobin`, Cheng, Xiang, Zhao, Chenxiao, Huang, Lei, Li, Jindong, Zhao, Dongcheng, and Yu, Xing. "Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information." *Advances in Neural Information Processing Systems (NeurIPS 2026)*, 2026. 🔗[[Arxiv]](https://arxiv.org/abs/2605.11609) 💻[[Code]](https://github.com/FloyedShen/AntiSD)
+
+- `Shen, Guobin`, Zhao, Chenxiao, Cheng, Xiang, Huang, Lei, and Yu, Xing. "VESPO: Variational Sequence-level Soft Policy Optimization for Off-Policy LLM Training." *Advances in Neural Information Processing Systems (NeurIPS 2026)*, 2026. 🤗[[Paper]](https://huggingface.co/papers/2602.10693) 💻[[Code]](https://github.com/FloyedShen/VESPO)
 
 - `Shen, Guobin`, Zhao, Dongcheng, Tong, Haibo, Li, Jindong, Zhao, Feifei, and Zeng, Yi. "Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense." *Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)*, 2026. 🔗[[Arxiv]](https://arxiv.org/abs/2510.01088)
 
